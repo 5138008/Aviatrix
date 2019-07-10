@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		502D974D20CDF4C10059F502 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502D974C20CDF4C10059F502 /* main.swift */; };
+		18EBC87B22D66A9D004A346F /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502D974C20CDF4C10059F502 /* main.swift */; };
 		502D975420CDF54F0059F502 /* Aviatrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502D975320CDF54F0059F502 /* Aviatrix.swift */; };
 		502D975620CDF55D0059F502 /* AviatrixData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502D975520CDF55D0059F502 /* AviatrixData.swift */; };
 /* End PBXBuildFile section */
@@ -126,8 +126,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				502D975620CDF55D0059F502 /* AviatrixData.swift in Sources */,
-				502D974D20CDF4C10059F502 /* main.swift in Sources */,
 				502D975420CDF54F0059F502 /* Aviatrix.swift in Sources */,
+				18EBC87B22D66A9D004A346F /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
