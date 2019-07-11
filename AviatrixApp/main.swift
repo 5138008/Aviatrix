@@ -57,8 +57,8 @@ func refuel(myPlane : Aviatrix) {
     let refuelData = myPlane.refuel()
     
     print("Refueling...")
-    print("⛽ Here in _________, jet fuel costs _________")
-    print("⛽ You refueled _________ gallons totaling _________")
+    print("⛽ Here in \(myPlane.currentLocation), jet fuel costs \(fuelPrices.value)")
+    print("⛽ You refueled \(knowDistance gallons totaling _________")
 }
 
 func fuelCheck(myPlane : Aviatrix, destination : String) -> Bool {
